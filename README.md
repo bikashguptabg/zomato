@@ -6,7 +6,7 @@ This project provides a **comprehensive analysis of Zomato's restaurant data**, 
 
 ## 📂 **Download Project Files**
 
-Download all project files (data, dashboards, reports) via this **[[Google Drive Link](https://drive.google.com/drive/folders/1CDBZl8PxXCzRXy-BgdGZf6xnuLgfQlPX?usp=sharing)](#)**
+Download all project files (data, dashboards, reports) via this **[[Google Drive Link](https://drive.google.com/drive/folders/1CDBZl8PxXCzRXy-BgdGZf6xnuLgfQlPX?usp=sharing)]**
 
 ---
 
