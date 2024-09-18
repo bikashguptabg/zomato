@@ -22,7 +22,7 @@ The primary objective of this project is to **analyze Zomato's restaurant data**
 ## 🎯 **Key Goals**
 
 - **Restaurant Performance**: Analyze the correlation between votes, star ratings, and average cost.
-- **Geographical Insights**: Explore restaurant distribution by city and locality, using latitude and longitude data.
+- **Geographical Insights**: Explore restaurant distribution by country, city and locality.
 - **Cuisine Popularity**: Identify top cuisines and assess their impact on restaurant ratings and pricing.
 - **Booking & Delivery Trends**: Study how table booking and online delivery influence customer engagement.
 
@@ -32,6 +32,8 @@ The primary objective of this project is to **analyze Zomato's restaurant data**
 
 ### **1. Data Collection & Cleaning:**
 - Imported data from Zomato’s dataset.
+- Trimming to text columns
+- Data cleaning of special characters for successful completion of all the rows in MySQL
 - Cleaned and preprocessed the data (adjusted data types, renamed columns).
 
 ### **2. Data Connection & Modeling:**
@@ -44,10 +46,10 @@ The primary objective of this project is to **analyze Zomato's restaurant data**
 
 ### **4. Data Visualization:**
 - Used **bar charts**, **heatmaps**, and **KPI cards** to visualize trends.
-- Implemented filters by location, cuisine, and other factors to derive insights.
+- Used filters by location, cuisine, and other features were implemented to derive insights.
 
 ### **5. Reporting & Dashboarding:**
-- Created dynamic dashboards in **Power BI** and **Tableau** to visualize restaurant trends and performance metrics.
+- Created dynamic dashboards in **Ms Excel**, **Power BI** and **Tableau** to visualize restaurant trends and performance metrics.
 
 ### **6. Cross Verification via SQL Queries:**
 - Validated the accuracy of the reports and dashboards using **SQL queries**.
@@ -81,7 +83,7 @@ This analysis provides insights that will:
 ---
 
 ## 📈 **Dashboards Preview**
-
+- **Excel Dashboard**: Pivot tables, charts and dashboard for primary data analysis
 - **Power BI Dashboard**: A comprehensive view of Zomato’s restaurant performance with interactive features.
 - **Tableau Dashboard**: Visual insights into restaurant ratings, cuisine trends, and geographical distribution.
 
@@ -89,8 +91,6 @@ This analysis provides insights that will:
 
 ## 🔗 **Connect with Me**
 
-For more projects and insights, connect with me on **[LinkedIn](#)** (Insert link).
+For more projects and insights, connect with me on **[[LinkedIn]](https://www.linkedin.com/in/bikashguptabg/)**
 
 ---
-
-Let me know if you'd like to adjust any sections or add details!
